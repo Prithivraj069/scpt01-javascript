@@ -16,4 +16,6 @@ let width = Number(prompt("enter the width: "));
 let perimeter = (length + width) * 2;
 console.log("perimeter of rectangle: ", perimeter);
 
-console.log(Math.max(1,2));
+// console.log(Math.max(1,2));
+let array = [1, 2, 3, 6, 7];
+console.log(array);
